@@ -2,22 +2,22 @@ const messages = [
   "a capella – laulu esitamine ilma saateta",
   "akord – kolme või enama heli kooskõla",
   "akustika – heli omadused ja kõlavustingimused ruumides, ja materjalides",
-  "arranžeerija – muusikapala seadja teisele kossseisule"
- "dünaamika – helitugevuse muutumine, mis aitab muusikapala ilmekamaks muuta"
- "etnomuusika – rahva- ehk pärimusmuusika"
- "harmoonia – helide kooskõla"
- "instrumentaalmuusika – pillimuusika"
- "levimuusika -lihtsa sisu ja vormiga meeldejääv muusika, mida levitatakse meediakanalites"
- "mänedžer – muusiku esindaja, kes hoolitseb muusiku töötingimuste eest"
- "partituur –  kõigi pillipartiide koondnoodistik"
- "rütm – erinevate helivältuste korrastatud järgnevus"
- "taktimõõt – number, mis näitab löökide arvu ühes taktis"
- "teema – muusikaline mõte, ühehäälselt väljendatud  meloodia"
- "tempo – heliteose esitamise kiirus"
- "vokaalmuusika -  laulumuusika"
- "helilaad – helikõrguste süsteem, kurb või rõõmus kõla, duur ja moll"
- "pentatoonika – viie astmeline helilaad"
- "tämber – inimhäälele või instrumendile iseloomulik kõlavärving"
+  "arranžeerija – muusikapala seadja teisele kossseisule",
+  "dünaamika – helitugevuse muutumine, mis aitab muusikapala ilmekamaks muuta",
+  "etnomuusika – rahva- ehk pärimusmuusika",
+  "harmoonia – helide kooskõla",
+  "instrumentaalmuusika – pillimuusika",
+  "levimuusika – lihtsa sisu ja vormiga meeldejääv muusika, mida levitatakse meediakanalites",
+  "mänedžer – muusiku esindaja, kes hoolitseb muusiku töötingimuste eest",
+  "partituur – kõigi pillipartiide koondnoodistik",
+  "rütm – erinevate helivältuste korrastatud järgnevus",
+  "taktimõõt – number, mis näitab löökide arvu ühes taktis",
+  "teema – muusikaline mõte, ühehäälselt väljendatud meloodia",
+  "tempo – heliteose esitamise kiirus",
+  "vokaalmuusika – laulumuusika",
+  "helilaad – helikõrguste süsteem, kurb või rõõmus kõla, duur ja moll",
+  "pentatoonika – viie astmeline helilaad",
+  "tämber – inimhäälele või instrumendile iseloomulik kõlavärving"
 ];
 
 const BOT_TOKEN = "MTQ3NTUyMDE1NTU4Mzc3NDg2Mg.GsJKDm.TU_y-wwez7CKRrCP3m1MJK-bcQO5ndEcUXU9vM";
